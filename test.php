@@ -9,7 +9,7 @@ $hello = "hello world";
    <meta charset="utf-8">
  </head>
  <body>
-   <h1><?php print($hello) ?>
+   <h1><?php print($hello) ?></h1>
      <h2>ちゃんと表示されたかな</h2>
      <h3>更新したいよ！</h3>
  </body>
